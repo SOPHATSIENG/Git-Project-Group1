@@ -23,17 +23,18 @@
 }
 .card-contai {
     color: white;
-}
-.card-contai button{
-    background-color:rgb(253, 208, 63);
-    padding: 3px 50px;
-    border-radius: 50px;
-    border: none;
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    justify-content: space-around;
-    color: white;
+    button{
+       background-color:rgb(253, 208, 63);
+       padding: 3px 50px;
+       border-radius: 50px;
+       border: none;
+       display: flex;
+       align-items: center;
+       gap: 20px;
+       justify-content: space-around;
+       color: white;
+       margin-top: 10px;
+   }
 }
 .card-contai button i{
     font-size: 25px;
